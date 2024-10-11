@@ -2,7 +2,7 @@
 Панелька которая может отсылать комментарии с множества аккаунтов в steam.
 
 # Инструкция для накрутки комментариев
-- Переходим по ссылке - https://github.com/S4CBS/CommentPanel_STEAM/releases/tag/
+- Переходим по ссылке - https://github.com/S4CBS/CommentPanel_STEAM/releases/
 - Качаем либо CommentPanel.exe либо StableV1.rar
 - Распаковываем если качали архив.
 - В папку mafiles закидываем .maFile файлы.
