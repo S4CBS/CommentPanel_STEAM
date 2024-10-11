@@ -3,7 +3,7 @@
 
 # Инструкция для накрутки комментариев
 - Переходим по ссылке - https://github.com/S4CBS/CommentPanel_STEAM/releases/
-- Качаем либо CommentPanel.exe либо StableV1.rar
+- Качаем либо CommentPanelV2.exe либо StableV2.rar
 - Распаковываем если качали архив.
 - В папку mafiles закидываем .maFile файлы.
 - Запускаем CommentPanel.exe (Если после установки через .exe  вылетела ошибка, то запустите с ярлыка)
